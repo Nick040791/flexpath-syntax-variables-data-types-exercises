@@ -1,0 +1,20 @@
+{
+    "editor.inlineSuggest.edits.allowCodeShifting": "never",
+    "editor.inlineSuggest.edits.renderSideBySide": "never",
+    "editor.inlineSuggest.edits.showLongDistanceHint": false,
+    "github.copilot.nextEditSuggestions.allowWhitespaceOnlyChanges": false,
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "github.copilot.nextEditSuggestions.extendedRange": false,
+    "github.copilot.nextEditSuggestions.fixes": false,
+    "chat.agent.enabled": false,
+    "chat.checkpoints.enabled": false,
+    "chat.customAgentInSubagent.enabled": false,
+    "chat.undoRequests.restoreInput": false,
+    "chat.agent.codeBlockProgress": false,
+    "chat.agent.thinking.generateTitles": false,
+    "chat.agent.thinking.terminalTools": false,
+    "inlineChat.askInChat": false,
+    "inlineChat.fixDiagnostics": false,
+    "inlineChat.notebookAgent": false,
+    "chat.disableAIFeatures": true
+}
